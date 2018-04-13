@@ -20,6 +20,9 @@ console.log("keys: " + keys);
 
 // //==== switch statement for all functions ===================
 
+// I cannot figure out why my switch is not running...
+// My requests are not returning anything from the api's
+
 switch (command) {
     case "my-tweets":
         function twiterFunc() {
